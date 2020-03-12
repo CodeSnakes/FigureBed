@@ -1,0 +1,2 @@
+# FigureBed
+Blog图床
